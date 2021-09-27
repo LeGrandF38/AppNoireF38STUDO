@@ -39,11 +39,8 @@ class MyHomePage extends StatelessWidget {
             ),
             top(),
             GrandTexte("Comptes"),
-            Cadre1(),
-            GrandTexte("Publications"),
-            Cadre2(),
-            GrandTexte("Catalogue"),
-            Cadre3(),
+            Cadre(),
+
             // Image(
             //   image: AssetImage("F38STUDIOLogo-min.png"),
             //   height: 190,

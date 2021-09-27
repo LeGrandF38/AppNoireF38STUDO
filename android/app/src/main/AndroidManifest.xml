@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.aachou">
    <application
-        android:label="SG"
+        android:label="Sites freelance"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

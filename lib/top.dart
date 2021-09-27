@@ -17,8 +17,8 @@ class top extends StatelessWidget {
           width: 60,
         ),
         SizedBox(height: 2),
-        GrandTexte("Achoura"),
-        PetitTexte("f38computerstudio@gmail.com"),
+        GrandTexte("Hafsa"),
+        PetitTexte("f38studiodirection@gmail.com"),
         SizedBox(
           height: 20,
         ),
